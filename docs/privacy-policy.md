@@ -2,13 +2,13 @@
 
 **Last updated: May 2026**
 
-Focus Timer is built with privacy as a core principle. We collect only what is necessary to operate the app and never sell your personal data to third parties.
+FocusTimerPomo is built with privacy as a core principle. We collect only what is necessary to operate the app and never sell your personal data to third parties.
 
 ## Data We Collect
 
 **Session & Task Data** — Focus sessions, task names, and durations you create. Stored locally on your device and optionally synced to your personal iCloud account (if enabled). We have no access to this data.
 
-**Subscription Status** — Whether you have an active Focus Timer Pro subscription. Managed by Apple's StoreKit and not stored on our servers.
+**Subscription Status** — Whether you have an active FocusTimerPomo Pro subscription. Managed by Apple's StoreKit and not stored on our servers.
 
 **Analytics (Optional)** — If you use features that depend on Apple's frameworks (e.g., widgets, live activities), Apple may collect aggregate usage data per their own privacy policy.
 
@@ -23,7 +23,7 @@ Focus Timer is built with privacy as a core principle. We collect only what is n
 
 ## iCloud Sync
 
-When iCloud Sync (a Pro feature) is enabled, your tasks and session history are stored in your private iCloud account using CloudKit. This data is only accessible by you and is governed by Apple's iCloud privacy policy. Focus Timer has no access to this data.
+When iCloud Sync (a Pro feature) is enabled, your tasks and session history are stored in your private iCloud account using CloudKit. This data is only accessible by you and is governed by Apple's iCloud privacy policy. FocusTimerPomo has no access to this data.
 
 ## In-App Purchases
 
@@ -31,7 +31,7 @@ All purchases are processed by Apple via the App Store. We receive only a confir
 
 ## Children's Privacy
 
-Focus Timer is not directed at children under 13. We do not knowingly collect data from anyone under 13 years of age.
+FocusTimerPomo is not directed at children under 13. We do not knowingly collect data from anyone under 13 years of age.
 
 ## Changes to This Policy
 
