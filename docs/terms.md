@@ -2,15 +2,15 @@
 
 **Last updated: May 2026**
 
-By downloading or using Focus Timer, you agree to be bound by these Terms & Conditions. If you do not agree to these terms, please do not use the app.
+By downloading or using FocusTimerPomo, you agree to be bound by these Terms & Conditions. If you do not agree to these terms, please do not use the app.
 
 ## License
 
-Focus Timer grants you a personal, non-exclusive, non-transferable, limited license to use the app on devices you own or control. You may not copy, modify, distribute, sell, or sublicense the app or any part of it.
+FocusTimerPomo grants you a personal, non-exclusive, non-transferable, limited license to use the app on devices you own or control. You may not copy, modify, distribute, sell, or sublicense the app or any part of it.
 
 ## Subscriptions & Purchases
 
-- Focus Timer Pro is available as a monthly or annual auto-renewing subscription.
+- FocusTimerPomo Pro is available as a monthly or annual auto-renewing subscription.
 - Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period.
 - Your Apple ID account will be charged upon confirmation of purchase and at the start of each renewal period.
 - You can manage and cancel subscriptions in your App Store account settings.
@@ -25,11 +25,11 @@ You agree not to:
 
 ## Disclaimer of Warranties
 
-Focus Timer is provided "as is" without warranty of any kind, express or implied. We do not warrant that the app will be error-free, uninterrupted, or meet your specific requirements.
+FocusTimerPomo is provided "as is" without warranty of any kind, express or implied. We do not warrant that the app will be error-free, uninterrupted, or meet your specific requirements.
 
 ## Limitation of Liability
 
-To the maximum extent permitted by law, Focus Timer and its developers shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of, or inability to use, the app.
+To the maximum extent permitted by law, FocusTimerPomo and its developers shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of, or inability to use, the app.
 
 ## Governing Law
 
